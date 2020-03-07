@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Bin McIp</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Bin McIp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Mar 2020 01:15:51 +0800</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cantonese</title>
+      <link>/categories/cantonese/</link>
+      <pubDate>Tue, 03 Mar 2020 01:15:51 +0800</pubDate>
+      
+      <guid>/categories/cantonese/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

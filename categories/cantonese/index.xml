@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cantonese on Bin McIp</title>
+    <link>/categories/cantonese/</link>
+    <description>Recent content in Cantonese on Bin McIp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Mar 2020 01:15:51 +0800</lastBuildDate>
+    
+	<atom:link href="/categories/cantonese/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>白手起家建立 Hugo Blog</title>
+      <link>/post/leadin-hugo-blog/</link>
+      <pubDate>Tue, 03 Mar 2020 01:15:51 +0800</pubDate>
+      
+      <guid>/post/leadin-hugo-blog/</guid>
+      <description>我執起網絡日誌，自己建、自己寫，免除担心24字管理去限制我。這種獨立網誌也是私人財產，無需驚青1博客服務商搿硬2沒收。不過，獨立網誌也有代價</description>
+    </item>
+    
+  </channel>
+</rss>
